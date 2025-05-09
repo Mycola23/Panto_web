@@ -670,7 +670,7 @@ body.__active {
   display: flex;
   justify-content: center;
   align-items: center;
-  content: url("../img/icons/arrow-right.svg");
+  content: url("/Panto_web/img/icons/arrow-right.svg");
   transform: translate(0, -50%) rotate(-180deg);
   z-index: 100;
 }
@@ -922,13 +922,13 @@ body.__active {
   min-height: 200px;
 }
 .gallery-reviews__item:first-child {
-  background: url("Panto_web/img/unsplash__HqHX3LBN18.jpg") center/cover no-repeat;
+  background: url("/Panto_web/img/unsplash__HqHX3LBN18.jpg") center/cover no-repeat;
 }
 .gallery-reviews__item:nth-child(2) {
-  background: url("Panto_web/img/unsplash_JaXs8Tk5Iww.jpg") center/cover no-repeat;
+  background: url("/Panto_web/img/unsplash_JaXs8Tk5Iww.jpg") center/cover no-repeat;
 }
 .gallery-reviews__item:nth-child(3) {
-  background: url("Panto_web/img/unsplash_h2_3dL9yLpU.jpg") center/cover no-repeat;
+  background: url("/Panto_web/img/unsplash_h2_3dL9yLpU.jpg") center/cover no-repeat;
 }
 .gallery-reviews__wrapper {
   flex: 1 1 auto;
@@ -1031,7 +1031,7 @@ body.__active {
   display: flex;
   justify-content: center;
   align-items: center;
-  content: url("Panto_web/img/icons/arrow-right.svg");
+  content: url("/Panto_web/img/icons/arrow-right.svg");
   transform: translate(0, -50%) rotate(-180deg);
   z-index: 100;
 }
