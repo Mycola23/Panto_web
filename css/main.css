@@ -670,7 +670,7 @@ body.__active {
   display: flex;
   justify-content: center;
   align-items: center;
-  content: url("Panto_web/img/icons/arrow-right.svg");
+  content: url("../img/icons/arrow-right.svg");
   transform: translate(0, -50%) rotate(-180deg);
   z-index: 100;
 }
