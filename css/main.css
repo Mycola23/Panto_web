@@ -247,7 +247,7 @@ body.__active {
 
 .main {
   min-height: 175vh;
-  background: url("https://github.com/Mycola23/Panto_web/blob/main/img/main.jpg") center/cover no-repeat;
+  background: url("/Panto_web/img/main.jpg") center/cover no-repeat;
 }
 
 .header {
