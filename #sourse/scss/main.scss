@@ -508,7 +508,7 @@ body {
         display: flex;
         justify-content: center;
         align-items: center;
-        content: url("/Panto_web/img/icons/arrow-right.svg");
+        content: ("/Panto_web/img/icons/arrow-right.svg");
         transform: translate(0, -50%) rotate(-180deg);
         z-index: 100;
     }
@@ -793,7 +793,7 @@ body {
         border-radius: 18px;
         //min-height: 400px;
         &:first-child {
-            background: url("/Panto_web/img/unsplash__HqHX3LBN18.jpg") center / cover no-repeat;
+            background: ("/Panto_web/img/unsplash__HqHX3LBN18.jpg") center / cover no-repeat;
         }
         &:nth-child(2) {
             background: url("/Panto_web/img/unsplash_JaXs8Tk5Iww.jpg") center / cover no-repeat;
