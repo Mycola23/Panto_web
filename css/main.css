@@ -1,25 +1,25 @@
 @charset "UTF-8";
 @font-face {
   font-family: "Gilroy";
-  src: local("Gilroy Medium"), local("Gilroy-Medium"), url("fonts/Gilroy-Medium.woff2") format("woff2"), url("fonts/Gilroy-Medium.woff") format("woff"), url("fonts/Gilroy-Medium.ttf") format("truetype");
+  src: local("Gilroy Medium"), local("Gilroy-Medium"), url("/Panto_web/fonts/Gilroy-Medium.woff2") format("woff2"), url("/Panto_web/fonts/Gilroy-Medium.woff") format("woff"), url("/Panto_web/fonts/Gilroy-Medium.ttf") format("truetype");
   font-weight: 500;
   font-style: normal;
 }
 @font-face {
   font-family: "Gilroy";
-  src: local("Gilroy Regular"), local("Gilroy-Regular"), url("fonts/Gilroy-Regular.woff2") format("woff2"), url("fonts/Gilroy-Regular.woff") format("woff"), url("fonts/Gilroy-Regular.ttf") format("truetype");
+  src: local("Gilroy Regular"), local("Gilroy-Regular"), url("/Panto_web/fonts/Gilroy-Regular.woff2") format("woff2"), url("/Panto_web/fonts/Gilroy-Regular.woff") format("woff"), url("/Panto_web/fonts/Gilroy-Regular.ttf") format("truetype");
   font-weight: 400;
   font-style: normal;
 }
 @font-face {
   font-family: "Gilroy";
-  src: local("Gilroy Semibold"), local("Gilroy-Semibold"), url("fonts/Gilroy-Semibold.woff2") format("woff2"), url("fonts/Gilroy-Semibold.woff") format("woff"), url("fonts/Gilroy-Semibold.ttf") format("truetype");
+  src: local("Gilroy Semibold"), local("Gilroy-Semibold"), url("/Panto_web/fonts/Gilroy-Semibold.woff2") format("woff2"), url("/Panto_web/fonts/Gilroy-Semibold.woff") format("woff"), url("/Panto_web/fonts/Gilroy-Semibold.ttf") format("truetype");
   font-weight: 600;
   font-style: normal;
 }
 @font-face {
   font-family: "Gilroy";
-  src: local("Gilroy Bold"), local("Gilroy-bold"), ("fonts/Gilroy-bold.woff2") format("woff2"), ("fonts/Gilroy-bold.woff") format("woff"), ("fonts/Gilroy-bold.ttf") format("truetype");
+  src: local("Gilroy Bold"), local("Gilroy-bold"), ("/Panto_web/fonts/Gilroy-bold.woff2") format("woff2"), ("/Panto_web/fonts/Gilroy-bold.woff") format("woff"), ("/Panto_web/fonts/Gilroy-bold.ttf") format("truetype");
   font-weight: 700;
   font-style: normal;
 }
